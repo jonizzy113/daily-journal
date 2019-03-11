@@ -1,0 +1,24 @@
+{
+  "journalEntries": [
+    {
+        "date": "03/05/2019",
+        "concept": "json",
+        "entry": "2",
+        "mood": "Ok"
+    },
+    {
+        "date": "03/06/2019",
+        "concept": "grunt",
+        "entry": "3",
+        "mood": "sad"
+    },
+
+    {
+        "date":"03/07/2019",
+        "concept": "api",
+        "entry": "4",
+        "mood": "sad"
+    }
+
+]
+}
